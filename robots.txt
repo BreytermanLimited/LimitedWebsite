@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://breyterman.com/sitemap.xml
